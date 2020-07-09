@@ -18,3 +18,5 @@ terraform.rc
 
 # GCP 
 GCP/KEY.json
+# mac
+*.DS_Store
