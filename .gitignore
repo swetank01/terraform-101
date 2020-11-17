@@ -20,3 +20,5 @@ terraform.rc
 GCP/KEY.json
 # mac
 *.DS_Store
+
+/AWS/ansible-server-nodes/temp/
